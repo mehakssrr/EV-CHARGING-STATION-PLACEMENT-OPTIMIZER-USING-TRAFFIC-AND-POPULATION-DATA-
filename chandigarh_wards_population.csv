@@ -1,0 +1,27 @@
+ward_id,ward_name,population,traffic_score,has_charger
+1,Sector 17,8500,5,1
+2,Manimajra,42000,3,0
+3,Sector 22,15000,4,0
+4,Sector 43,19500,4,1
+5,Sector 38 West,22000,3,0
+6,Sector 35,17500,4,0
+7,Sector 15,12800,3,0
+8,Sector 8,10200,3,1
+9,Sector 40,20500,3,0
+10,Sector 45,23800,3,0
+11,Sector 46,21200,2,0
+12,Sector 61,18700,2,0
+13,Sector 63,16400,2,0
+14,Dhanas,24500,2,0
+15,Sector 30,14600,3,0
+16,Sector 34,16900,4,0
+17,Sector 20,11700,3,0
+18,Sector 21,13200,3,0
+19,Hallo Majra,28900,2,0
+20,Ram Darbar,31200,2,0
+21,Sector 41,19800,3,0
+22,Sector 48,20100,2,0
+23,Sector 49,15300,2,0
+24,Sector 51,17200,2,0
+25,Industrial Area Phase 1,9800,4,0
+26,Sector 26 Grain Market,7600,5,1
