@@ -9,7 +9,7 @@
 [![Streamlit](https://img.shields.io/badge/Streamlit-interactive%20app-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)]()
 
-*No heavy GIS. No complex ML. Just clean, explainable logic — built to be easy to present in a report or viva.*
+*No heavy GIS. No complex ML. Just clean, Easy and Outgoing*
 
 </div>
 
