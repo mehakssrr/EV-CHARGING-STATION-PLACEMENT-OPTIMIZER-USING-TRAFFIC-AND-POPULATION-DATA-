@@ -7,7 +7,6 @@
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Pandas](https://img.shields.io/badge/pandas-data%20wrangling-150458?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-interactive%20app-FF4B4B?logo=streamlit&logoColor=white)](https://streamlit.io/)
-[![License](https://img.shields.io/badge/License-MIT-green.svg)](#license)
 [![Status](https://img.shields.io/badge/status-active-brightgreen)]()
 
 *No heavy GIS. No complex ML. Just clean, explainable logic — built to be easy to present in a report or viva.*
