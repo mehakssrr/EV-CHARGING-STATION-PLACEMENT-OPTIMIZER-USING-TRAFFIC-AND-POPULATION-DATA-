@@ -1,0 +1,10 @@
+ev-charging-chandigarh/
+├── data/chandigarh_wards_population.csv   # sample data (26 wards)
+├── src/
+│   ├── 01_prepare_data.py                 # load, clean, validate
+│   ├── 02_compute_scores.py               # normalize + weighted need_score
+│   └── 03_recommend_locations.py          # top-K selection + bar chart
+├── app/app.py                             # Streamlit UI with live weight sliders
+├── requirements.txt
+├── .gitignore
+└── README.md
