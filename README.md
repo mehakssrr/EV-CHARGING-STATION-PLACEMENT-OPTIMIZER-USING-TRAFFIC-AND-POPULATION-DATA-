@@ -201,10 +201,12 @@ decisions.
 
 ---
 
-## 📄 License
+## AUTHOR
 
-Released under the [MIT License](LICENSE) — free to use, modify, and
-share.
+MEHAK SHARMA
+
+#CONTACT
+mehak.ssrr@gmail.com
 
 <div align="center">
 
